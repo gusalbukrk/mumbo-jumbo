@@ -1,1 +1,1 @@
-console.log("Mumbo Jumbo...");
+console.log("Mumbo Jumbo!");

@@ -1,6 +1,6 @@
 {
   "name": "mumbo-jumbo",
-  "version": "0.0.0-alpha",
+  "version": "0.0.0-alpha.1",
   "description": "Testing NPM.",
   "main": "index.js",
   "scripts": {
